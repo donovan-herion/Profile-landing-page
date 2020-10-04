@@ -1,1 +1,3 @@
-Introduction page created to introduce myself using a html and css combination
+[Link to the website](https://donovan-herion.github.io)
+
+- Landing page project exercice
